@@ -6,3 +6,4 @@
 - Once the server hardware is installed in the data center, a piece of code can now run. The code that runs on the hardware is commonly known as software. One way I like to remember this is to think of **hardware as something you can physically touch and is difficult to change as you need to physically replace components. Software is soft or easy to change. You just replace the code running on the server.**
 - A web server has many functions which includes website storage and administration, data storage, security and managing email. Another primary function is to handle something known as a **web request.** When you open a browser on your device and type the name of the website, it's the job of the web server to send you back to that website's content. This process is known as the request response cycle.
 - Web servers are also designed to respond to thousands of requests from clients per second.
+
