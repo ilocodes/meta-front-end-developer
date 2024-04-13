@@ -13,8 +13,8 @@
 ## Course Outlook
 ### Module 1: Introduction to Front-End Development
 #### Week 1
-- How the internet works?
-- What is a web server and how does it work?
-- What are websites and webpages?
-- What is a web browser and how does it work?
-- Web hosting
+- [How the internet works?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/how-the-internet-works.md)
+- [What is a web server and how does it work?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/What-is-a-web-server.md)
+- [What are websites and webpages?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/what-are-websites-and-webpages.md)
+- [What is a web browser and how does it work?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/What-is-a-web%20browser.md)
+- [Web hosting](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/web-hosting.md)
