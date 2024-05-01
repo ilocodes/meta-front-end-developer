@@ -34,3 +34,4 @@
 - [Web hosting](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/web-hosting.md)
 - [Introduction to Internet Protocols](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/internet-protocol.md)
 - [Introduction to HTTP](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/introduction-to-http.md)
+- [Introduction to HTML, CSS & Javascript](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/intro-to-front-end-languages.md)
