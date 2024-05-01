@@ -33,3 +33,4 @@
 - [What is a web browser and how does it work?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/What-is-a-web%20browser.md)
 - [Web hosting](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/web-hosting.md)
 - [Introduction to Internet Protocols](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/internet-protocol.md)
+- [Introduction to HTTP](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/introduction-to-http.md)
