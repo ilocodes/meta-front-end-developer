@@ -1,4 +1,4 @@
-# API and Services
+# APIs and Services
 * APIs (Application Programming Interfaces) are valuable tools for web developers.
 * APIs are sets of functions and procedures that allow applications to access the features or data of an operating system, application, or service.
 * There are different types of APIs that web developers work with, including Browser or Web APIs, RESTful APIs, and Sensor-Based APIs.
