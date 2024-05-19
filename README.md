@@ -35,3 +35,7 @@
 - [Introduction to Internet Protocols](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/internet-protocol.md)
 - [Introduction to HTTP](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/introduction-to-http.md)
 - [Introduction to HTML, CSS & Javascript](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/intro-to-front-end-languages.md)
+- [Webpages, Websites and Web Apps](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/webpages_websites_webapps.md)
+- [Frameworks and Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/frameworks-and-libraries.md)
+- [APIs and Services](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/api-and-services.md)
+- [What is an IDE?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/ide.md)
