@@ -39,3 +39,6 @@
 - [Frameworks and Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/frameworks-and-libraries.md)
 - [APIs and Services](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/api-and-services.md)
 - [What is an IDE?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/ide.md)
+
+#### Week 2
+- [What is Hyper Text Markup Language?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-is-html.md)
