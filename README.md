@@ -42,3 +42,4 @@
 
 #### Week 2
 - [What is Hyper Text Markup Language?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-is-html.md)
+- [HTML documents](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/index.html)
