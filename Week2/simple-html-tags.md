@@ -78,6 +78,88 @@ Italics tags can be used to offset a range of text.
 </p>
 ```
 
-To be continued....
+## Emphasis vs. Italics
+By default both tags will have the same visual effect in the web browser. The only difference is the meaning.
 
+Emphasis tags stress the text contained in them. 
 
+```
+<p>
+   I <em>really</em> want ice cream.
+</p>
+```
+
+```
+<p>
+  My favourite book is <i>Dracula</i>.
+</p>
+```
+Screen readers will not announce any difference if an italics tag is used.
+
+## Lists
+You can add lists to your web pages. There are two types of lists in HTML.
+
+Lists can be unordered using the `<ul>` tag. List items are specified using the `<li>` tag, for example:
+
+```
+<ul>
+   <li>Tea</li>
+   <li>Sugar</li>
+   <li>Milk</li>
+</ul>
+```
+Lists can also be ordered using the `<ol>` tag. Again, list items are specified using the `<li>` tag.
+
+```
+<ol>
+   <li>Rocky</li>
+   <li>Rocky II</li>
+   <li>Rocky III</li>
+</ol>
+```
+
+## Div tags
+A `<div>` tag defines a content division in a HTML document. It acts as a generic container and has no effect on the content unless it is styled by CSS.
+
+The following example shows a `<div>` element that contains a paragraph element:
+
+```
+<div>
+   <p>This is a paragraph inside a div</p>
+</div>
+```
+
+It can be nested inside other elements, for example:
+
+```
+<div>
+   <div>
+      <p>This is a paragraph inside a div that’s inside another div</p>
+   </div>
+</div>
+```
+As mentioned, the div has no impact on content unless it is styled by CSS. Let’s add a small CSS rule that styles all divs on the page.
+
+Don't worry about the meaning of the CSS just yet, you'll explore CSS further in a later lesson. In summary, you're applying a rule that adds a border and some visual spacing to the element.
+
+```
+<style>
+   div {
+      border: 1px solid black;
+      padding: 2px;
+   }
+</style>
+<div>
+   <div>
+      <p>This is a paragraph inside stylized divs</p>
+   </div>
+</div>
+```
+Div elements are an important part of building webpages. More advanced usage of div elements will be explored in another course.
+
+## Comments
+If you want to leave a comment in the code for other developers, it can be added as:
+
+`<!-- This is a comment -->`
+
+The comment will not be displayed in the web browser.
