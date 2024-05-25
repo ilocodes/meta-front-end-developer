@@ -44,3 +44,4 @@
 - [What is Hyper Text Markup Language?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-is-html.md)
 - [HTML documents](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/index.html)
 - [Linking Documents](https://github.com/ilocodes/Little-Lemon-Cafe/tree/main)
+- [Adding images to a webpage](https://github.com/ilocodes/Little-Lemon-Cafe/tree/main)
