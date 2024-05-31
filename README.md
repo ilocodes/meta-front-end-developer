@@ -10,7 +10,7 @@
 3. Learn Bootstrap CSS Framework to create webpages and work with GitHub repositories and version control.
 4. Prepare for a coding interview, learn best approaches to problem-solving, and build portfolio-ready projects you can share during job interviews.
 
-## Skills Taught
+## Skills 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -47,3 +47,5 @@
 - [Adding images to a webpage](https://github.com/ilocodes/Little-Lemon-Cafe/tree/main)
 - [What are forms?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-are-forms.md)
 - [Introduction to DOM](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/introduction-to-dom.md)
+- [Web Accessibility](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/web-accessibility.md)
+
