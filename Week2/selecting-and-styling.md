@@ -1,0 +1,2 @@
+# Selecting and Styling
+Think of a building's structure, interior, and decorations as you would think of HTML and CSS for websites. HTML acts as the frame and structure, while CSS is like the paint, wallpaper, and overall style. CSS tells the browser how to display HTML elements. CSS rules include selectors, properties, and values. You can use different CSS rules to style HTML elements, like changing text color or background color. CSS specificity determines which rule applies to an element. Practice adding CSS rules to your HTML documents for better understanding.
