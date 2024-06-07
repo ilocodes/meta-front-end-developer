@@ -1,9 +1,17 @@
 # What is a web server and how does it work?
-- A server is a computer that runs applications and services ranging from websites to instant messaging. It's called a server because it provides a service to another computer and its user also known as the client. Is typically stored in something called a **data center** with hundreds or thousands of other servers, all running different services connected to the internet.
-- There are many different systems in data centers to ensure that servers have continuous power, continuous internet connection and are kept called 24 hours per day.
-- Did you know that there are data centers located all around the world. Many websites use these to allow you to access your content quickly from the data center nearest to you. The data center servers are built based on the service purpose.
-- For example, if the server is only to be used for storing images, it might have a lot of hard drive space. Whereas a server computing complex calculations might need a fast processor and a lot of memory. This is usually referred to as a server hardware. The physical components of a server. 
-- Once the server hardware is installed in the data center, a piece of code can now run. The code that runs on the hardware is commonly known as software. One way I like to remember this is to think of **hardware as something you can physically touch and is difficult to change as you need to physically replace components. Software is soft or easy to change. You just replace the code running on the server.**
-- A web server has many functions which includes website storage and administration, data storage, security and managing email. Another primary function is to handle something known as a **web request.** When you open a browser on your device and type the name of the website, it's the job of the web server to send you back to that website's content. This process is known as the request response cycle.
-- Web servers are also designed to respond to thousands of requests from clients per second.
+
+A server is a computer that operates applications and services, such as websites and instant messaging. It's termed a server because it provides services to another computer and its user, known as the client. Servers are typically housed in a **data center** alongside hundreds or thousands of other servers, all running different internet-connected services.
+
+Data centers have numerous systems to ensure that servers receive continuous power, maintain an uninterrupted internet connection, and stay cool 24/7.
+
+Did you know data centers are globally located? Many websites utilize these centers to enable quick content access from the nearest data center. Servers in data centers are built based on their service purpose.
+
+For instance, a server dedicated to storing images may have extensive hard drive space, while a server performing complex calculations might require a fast processor and substantial memory. This is referred to as server hardware, the physical components of a server.
+
+Once server hardware is installed in the data center, software can run on it. Software is the code operating on the hardware. To remember this, think of **hardware as the physical, touchable components that are difficult to change since you must replace them physically. Software is easier to change, as you only need to update the code running on the server.**
+
+A web server has multiple functions, including website storage and administration, data storage, security, and email management. A primary function is handling **web requests.** When you open a browser and type a website's name, the web server's job is to deliver that website's content to you, a process known as the request-response cycle.
+
+Web servers are also designed to handle thousands of client requests per second.
+
 
