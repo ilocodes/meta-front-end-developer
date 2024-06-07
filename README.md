@@ -48,5 +48,6 @@
 - [What are forms?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-are-forms.md)
 - [Introduction to DOM](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/introduction-to-dom.md)
 - [Web Accessibility](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/web-accessibility.md)
+- [Selecting and Styling](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/selecting-and-styling.md)
 - [Box Model Introudction](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/box-model-introduction.md)
 
