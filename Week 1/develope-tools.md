@@ -1,12 +1,24 @@
 # Developer Tools
 
-* Most web browsers come equipped with a set of developer tools that allow developers to inspect their HTML, CSS and Javascript code. Also, to trace http request to the web server, investigate performance issues and review web page security. Let's find out more by exploring the homepage of the Little Lemon Cafe. To begin, I've just opened the Little Lemon Cafes web page on my chrome browser. On the homepage, I can view their menu. But I want to explore the HTML structure of this menu. To do that, I need to open the developer tools.
-* To open the developer tools in chrome, press the F12 key on your keyboard for PC or command option J on Mac. Alternatively, you can right click on the web page and select inspect. There are various tabs on the top row of developer tools that provide different functionality. In this video, I'll give you a high level explanation of some of the most used tools:
+Most web browsers come with developer tools that help developers inspect their HTML, CSS, and JavaScript code, trace HTTP requests to the web server, investigate performance issues, and review web page security. Let's explore these tools using the homepage of the Little Lemon Cafe.
 
-  1. 1st, let's open the console tab. This tab outputs, javascript logs and errors from your web application
-  2. The sources tab shows all content resolved for the current page. It includes HTML, CSS, Javascript, images and videos.
-  3. With the network tab, you can inspect the timeline and details of http requests and responses for the web page.
-  4. The performance tab shows what the web browser is doing over time. It is useful if your web application is running slow because you can pinpoint the functions that are taking the most time.
-  5. The memory tab displays the parts of your code that are consuming the most resources.
-  6. Finally, let's check the most used tab the elements tab. You can use this tab to inspect the documents, HTML elements and their properties. For example, when I hover over an element in the elements tab, it highlights that element in the browser pane.
-* On the right side of the panel, there are tabs for inspecting the details of the elements further. This panel shows us what CSS is applied to an element and the result of the element displayed in the browser. We will explore these details in a later lesson. For now, you just need to know that if you click on an HTML element, then the information for that element will appear in the tab. Now, I'm going to demonstrate a fun trick. If you double click the HTML, you can edit it in the web browser. For example, if I select the Our Menu body element, then I can change the first item in the menu from chicken Burger, to Turkey Burger. This doesn't change the content on the web server. It only updates it for me while the web pages open. If I open the web page again, it will reset.
+To start, I opened the Little Lemon Cafe's webpage in my Chrome browser. I can see their menu on the homepage, but I want to examine the HTML structure of this menu. To do this, I need to open the developer tools.
+
+### Opening Developer Tools in Chrome
+- **PC**: Press the `F12` key.
+- **Mac**: Press `Command + Option + J`.
+- Alternatively, right-click on the webpage and select "Inspect".
+
+### Developer Tools Tabs Overview
+- **Console Tab**: Displays JavaScript logs and errors.
+- **Sources Tab**: Shows all content for the current page, including HTML, CSS, JavaScript, images, and videos.
+- **Network Tab**: Inspects the timeline and details of HTTP requests and responses.
+- **Performance Tab**: Displays what the browser is doing over time, helping you identify slow-running functions.
+- **Memory Tab**: Shows which parts of your code are using the most resources.
+- **Elements Tab**: Allows you to inspect HTML elements and their properties. Hovering over an element highlights it in the browser.
+
+### Inspecting Elements and CSS
+On the right side of the panel, you can inspect element details further. This shows the CSS applied to an element and its display result in the browser. We'll explore these details later. For now, know that clicking on an HTML element displays its information in the tab.
+
+### Fun Trick
+You can edit HTML directly in the browser. For example, if I double-click the "Our Menu" element, I can change "Chicken Burger" to "Turkey Burger". This change is only temporary and doesn't affect the server. When you reload the page, it resets.
