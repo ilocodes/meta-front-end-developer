@@ -50,4 +50,4 @@
 - [Web Accessibility](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/web-accessibility.md)
 - [Selecting and Styling](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/selecting-and-styling.md)
 - [Box Model Introudction](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/box-model-introduction.md)
-
+- [Document flow - block vs. inline](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/document-flow.md)
