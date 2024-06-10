@@ -54,3 +54,4 @@
 
 #### Week 3
 - [Working with Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/working-with-libraries.md)
+- [Introduction to Responsive Design](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/introduction-to-responsive-design.md)
