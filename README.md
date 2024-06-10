@@ -51,3 +51,6 @@
 - [Selecting and Styling](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/selecting-and-styling.md)
 - [Box Model Introudction](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/box-model-introduction.md)
 - [Document flow - block vs. inline](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/document-flow.md)
+
+#### Week 3
+- [Working with Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/working-with-libraries.md)
