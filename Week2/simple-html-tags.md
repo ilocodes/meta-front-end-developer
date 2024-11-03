@@ -17,7 +17,9 @@ Headings allow you to display titles and subtitles on your webpage.
 Paragraphs contain text content.
 
 ```
-<p> This paragraph contains a lot of lines but they are ignored. </p>
+<p>
+  This paragraph contains a lot of lines but they are ignored.
+</p>
 ```
 Note that putting content on a new line is ignored by the web browser.
 
