@@ -55,9 +55,9 @@
 - [Document flow - block vs. inline](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/document-flow.md)
 
 #### Week 3
-- [Working with Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/working-with-libraries.md)
-- [Introduction to Responsive Design](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/introduction-to-responsive-design.md)
+- [Working with Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/working-with-libraries.md)
+- [Introduction to Responsive Design](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/introduction-to-responsive-design.md)
 - [Getting started with Bootstrap](https://github.com/ilocodes/Getting-started-with-Bootstrap)
-- [Using Bootstrap Styles](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/using-bootstrap-styles.md)
-- [Bootstrap Grid](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/bootstrap-grid.md)
+- [Using Bootstrap Styles](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/using-bootstrap-styles.md)
+- [Bootstrap Grid](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/bootstrap-grid.md)
 - [Lab: Working with Bootstrap Grid](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/lab-working-with-bootstrap-grid.md)
