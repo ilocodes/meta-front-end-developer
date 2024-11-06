@@ -1,4 +1,4 @@
-# Working with Bootstrap Grid
+# Lab: Working with Bootstrap Grid
 
 In this exercise, you will practice building a webpage using the Bootstrap Grid.
 
