@@ -60,3 +60,4 @@
 - [Getting started with Bootstrap](https://github.com/ilocodes/Getting-started-with-Bootstrap)
 - [Using Bootstrap Styles](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/using-bootstrap-styles.md)
 - [Bootstrap Grid](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/bootstrap-grid.md)
+- [Lab: Working with Bootstrap Grid](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%203/lab-working-with-bootstrap-grid.md)
