@@ -43,16 +43,16 @@
 - [What is an IDE?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%201/ide.md)
 
 #### Week 2
-- [What is Hyper Text Markup Language?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-is-html.md)
-- [HTML documents](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/index.html)
+- [What is Hyper Text Markup Language?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/what-is-html.md)
+- [HTML documents](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/index.html)
 - [Linking Documents](https://github.com/ilocodes/Little-Lemon-Cafe/tree/main)
 - [Adding images to a webpage](https://github.com/ilocodes/Little-Lemon-Cafe/tree/main)
-- [What are forms?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/what-are-forms.md)
-- [Introduction to DOM](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/introduction-to-dom.md)
-- [Web Accessibility](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/web-accessibility.md)
-- [Selecting and Styling](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/selecting-and-styling.md)
-- [Box Model Introudction](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/box-model-introduction.md)
-- [Document flow - block vs. inline](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week2/document-flow.md)
+- [What are forms?](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/what-are-forms.md)
+- [Introduction to DOM](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/introduction-to-dom.md)
+- [Web Accessibility](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/web-accessibility.md)
+- [Selecting and Styling](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/selecting-and-styling.md)
+- [Box Model Introudction](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/box-model-introduction.md)
+- [Document flow - block vs. inline](https://github.com/ilocodes/meta-front-end-developer/blob/main/Week%202/document-flow.md)
 
 #### Week 3
 - [Working with Libraries](https://github.com/ilocodes/meta-front-end-developer/blob/main/week%203/working-with-libraries.md)
